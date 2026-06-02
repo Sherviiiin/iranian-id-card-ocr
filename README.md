@@ -2,7 +2,7 @@
 
 A Python desktop application for detecting and cropping Iranian national ID cards, extracting key identity fields using OCR, cropping the personal photo, and saving the extracted data to an Excel file.
 
-This project was developed in December 2025, as a university Computer Vision course project, using Python, OpenCV, EasyOCR, and Tkinter.
+This project was developed in December 2025, as a university Computer Vision course project, using Python, OpenCV, EasyOCR and Tkinter.
 
 ## Features
 
@@ -32,7 +32,6 @@ This project was developed in December 2025, as a university Computer Vision cou
 <p align="center">
   <img src="./images/3.png" width="20%">
 </p>
-
 
 > Note: The sample card image is a fictional, non-real card sourced from the internet and is used only for demonstration.
 
