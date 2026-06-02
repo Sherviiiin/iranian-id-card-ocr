@@ -20,17 +20,17 @@ This project was developed in December 2025, as a university Computer Vision cou
 
 ### 1. Input Card
 <p align="center">
-  <img src="./images/1.png" width="60%">
+  <img src="./images/1.png" width="40%">
 </p>
 
 ### 2. Detected Text Areas
 <p align="center">
-  <img src="./images/2.png" width="80%">
+  <img src="./images/2.png" width="85%">
 </p>
 
 ### 3. Detected Personal Photo
 <p align="center">
-  <img src="./images/3.png" width="50%">
+  <img src="./images/3.png" width="40%">
 </p>
 
 > Note: The sample card image is a fictional, non-real card sourced from the internet and is used only for demonstration.
