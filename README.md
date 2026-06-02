@@ -30,7 +30,7 @@ This project was developed in December 2025, as a university Computer Vision cou
 
 ### 3. Detected Personal Photo
 <p align="center">
-  <img src="./images/3.png" width="25%">
+  <img src="./images/3.png" width="15%">
 </p>
 
 > Note: The sample card image is a fictional, non-real card sourced from the internet and is used only for demonstration.
